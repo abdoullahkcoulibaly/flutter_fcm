@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27146247483",
+    "project_id": "django-fcm-b9b58",
+    "storage_bucket": "django-fcm-b9b58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27146247483:android:165af8a972fcc2e44e2b1e",
+        "android_client_info": {
+          "package_name": "com.example.get_fcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoJ5CRjZ3zNBl0VxfBA3hA8vBDpLOOTh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
